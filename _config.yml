@@ -22,9 +22,9 @@ url: "https://harrismohammed.github.io"
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - Case Studies: "aboutme"
+    - Learn: "https://medium.com/@harris.datascientist/beginning-a-career-in-data-science-241102f1fc5a"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

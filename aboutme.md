@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hi, I'm Harris 
+subtitle: Computer Vision Engineer/Gamer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Data Science Engineer during the Day. Gamer at Night!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 
 
 What else do you need?
 

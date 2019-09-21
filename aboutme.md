@@ -19,13 +19,8 @@ I obtained my Bachelor of Technology degree in <strong>Electrical & Electronics 
 </p>
 
 <p class="about-text">
-<span class="fa fa-code about-icon"></span>
-I am a programmer.
-</p>
-
-<p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I am very fond of games, I love listening to music, occasional cooking, and enjoy reading books. I am eager in meeting new people, to connect, discuss, network and grow, mostly at Data Science Conferences and Gaming meet-ups.
+I am very fond of games, love listening to music, occasional cooking and enjoy reading books. I am eager in meeting new people, to connect, discuss, network and grow.
 </p>
 
 <p class="about-text">

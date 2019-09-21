@@ -67,7 +67,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "harris.datascientist@gmail.com"
   github: harrismohammed
   twitter: harrismoh2
@@ -154,7 +154,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Chennai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

@@ -21,9 +21,9 @@ url: "https://harrismohammed.github.io"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Case Studies: "aboutme"
-    - Learn: "https://medium.com/@harris.datascientist/beginning-a-career-in-data-science-241102f1fc5a"
+  Case Studies :
+    - Multi Label Classification: "https://medium.com/datadriveninvestor/multi-label-classification-case-study-stackoverflow-tag-predictor-832bb6bc18db"
+  Learn: "https://medium.com/@harris.datascientist/beginning-a-career-in-data-science-241102f1fc5a"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)

@@ -23,6 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Case Studies :
     - Multi Label Classification: "https://medium.com/datadriveninvestor/multi-label-classification-case-study-stackoverflow-tag-predictor-832bb6bc18db"
+  Analysis:
+    - Sports : "sportsanalysis"
   Learn: "https://medium.com/@harris.datascientist/beginning-a-career-in-data-science-241102f1fc5a"
 
 

@@ -2,7 +2,7 @@
 layout: page
 title: Sports Analysis
 meta-title: Fun Analysis Work 
-subtitle: "Understanding sports, never gets bored!"
+subtitle: "Understanding sports, never gets boring!"
 ---
 
 
